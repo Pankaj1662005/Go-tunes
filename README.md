@@ -1,16 +1,4 @@
-Perfect! You've organized your project correctly with the `assets/preview/` folder containing:
 
-* ✅ **Screenshots**: `1.jpg`, `2.jpg`, `3.jpg`, `4.jpg`
-* ✅ **Video**: `video.mp4`
-* ✅ **APK file**: in the `apk/` folder
-
-Here’s your **updated `README.md`** with links pointing to those files. You can place this file at the **root of your project**.
-
----
-
-### ✅ `README.md` (Complete Version)
-
-````markdown
 # 🎧 GO Tunes - Flutter Music Player App
 
 **GO Tunes** is a sleek and modern Flutter music player app built with `Provider`, `AudioPlayers`, and `SharedPreferences`. It supports audio streaming, offline caching, liking tracks, shuffling, and repeat modes – all packed into a smooth Material Dark UI.
@@ -29,10 +17,7 @@ Here’s your **updated `README.md`** with links pointing to those files. You ca
 
 > Click the video below to preview the app in action:
 
-[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](assets/preview/video.mp4)
-
-Or open directly:  
-🔗 [Watch Video](assets/preview/video.mp4)
+[🔗 Watch Video](assets/preview/video.mp4)
 
 ---
 
@@ -114,11 +99,5 @@ Built with ❤️ by [Pankaj1662005](https://github.com/Pankaj1662005)
 
 ```
 
----
-
-### 📝 Notes:
-- You’ll want to update the GitHub links (`yourusername/go-tunes`) once the project is pushed to GitHub.
-- If you plan to share this on GitHub, you can embed public links instead of local ones (like uploading your video to YouTube or screenshots to an image hosting service).
-
-Let me know if you'd like a lighter version or if you're planning to publish this to GitHub so I can adjust the links accordingly.
+Just save this as `README.md` in the root of your Flutter project. Let me know if you also want a `LICENSE` file or GitHub push instructions!
 ```
