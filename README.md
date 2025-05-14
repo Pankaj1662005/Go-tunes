@@ -12,6 +12,19 @@
 | ![Home](assets/preview/1.jpg) | ![Now Playing](assets/preview/2.jpg) | ![Artist Home](assets/preview/3.jpg) | ![Liked Tracks](assets/preview/4.jpg) |
 
 ---
+## 📖 Story Behind GO Tunes
+
+I created **GO Tunes** because I was frustrated with most music players being overloaded with ads and poor performance. I wanted a music app that was clean, ad-free, and fully focused on delivering high-quality audio.
+
+This app ensures:
+
+- 🎵 **All liked songs are downloaded locally**, so you can enjoy them offline.
+- 🔊 **High-resolution audio playback** with **zero distortion**, even at full volume.
+- 💡 **Bug-free experience** – I’ve focused on both **functionality** and a **complete dark UI**.
+- 🛠️ If you find any issues, feel free to report them – I'm committed to making this app better.
+
+You can email me at: **`Pankajsheokand2005@gmail.com`**
+
 
 ## 🎬 Demo Video
 
