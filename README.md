@@ -25,7 +25,7 @@
 
 You can install the app on any Android device using the link below:
 
-📦 [Download GO Tunes APK](assets/preview/apk/GO_Tunes.apk)
+📦 [Download GO Tunes APK](assets/preview/apk/app-release.apk)
 
 ---
 
@@ -50,11 +50,6 @@ lib/
 ├── services/      # Logic or helpers (e.g., for parsing or APIs)
 ├── widgets/       # Reusable components like buttons or sliders
 └── main.dart      # App entry point
-assets/
-└── preview/
-    ├── 1.jpg      # Screenshots
-    ├── video.mp4  # Demo video
-    └── apk/       # APK file
 ````
 
 ---
@@ -70,8 +65,8 @@ assets/
 ### ▶️ Run Locally
 
 ```bash
-git clone https://github.com/yourusername/go-tunes.git
-cd go-tunes
+git clone https://github.com/Pankaj1662005/Go-tunes
+cd Go-tunes
 flutter pub get
 flutter run
 ```
@@ -96,8 +91,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙌 Author
 
 Built with ❤️ by [Pankaj1662005](https://github.com/Pankaj1662005)
-
-```
-
-Just save this as `README.md` in the root of your Flutter project. Let me know if you also want a `LICENSE` file or GitHub push instructions!
-```
+contact : Pankajsheokand2005@gmail.com
