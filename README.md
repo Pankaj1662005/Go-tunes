@@ -9,7 +9,7 @@
 
 | Home | Now Playing | Liked Tracks | Shuffle & Repeat |
 |------|-------------|--------------|------------------|
-| ![Home](assets/preview/1.jpg) | ![Now Playing](assets/preview/2.jpg) | ![Liked Tracks](assets/preview/3.jpg) | ![Shuffle Repeat](assets/preview/4.jpg) |
+| ![Home](assets/preview/1.jpg) | ![Now Playing](assets/preview/2.jpg) | ![Artist Home](assets/preview/3.jpg) | ![Liked Tracks](assets/preview/4.jpg) |
 
 ---
 
@@ -17,7 +17,7 @@
 
 > Click the video below to preview the app in action:
 
-[🔗 Watch Video](assets/preview/video.mp4)
+[![Watch the demo](https://img.youtube.com/vi/NDSNYR7nXUA/0.jpg)](https://youtube.com/shorts/NDSNYR7nXUA?si=0eE5NLtXzC76c-tV)
 
 ---
 
