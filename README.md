@@ -7,7 +7,7 @@
 
 ## 📸 Screenshots
 
-| Home | Now Playing | Liked Tracks | Shuffle & Repeat |
+| Home | Now Playing | Artist Home | Liked Tracks |
 |------|-------------|--------------|------------------|
 | ![Home](assets/preview/1.jpg) | ![Now Playing](assets/preview/2.jpg) | ![Artist Home](assets/preview/3.jpg) | ![Liked Tracks](assets/preview/4.jpg) |
 
