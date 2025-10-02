@@ -38,7 +38,7 @@ You can email me at: **`Pankajsheokand2005@gmail.com`**
 
 You can install the app on any Android device using the link below:
 
-📦 [Download GO Tunes APK](assets/preview/apk/app-release.apk)
+📦 [Download GO Tunes APK](assets/preview/app-release.apk)
 
 ---
 
